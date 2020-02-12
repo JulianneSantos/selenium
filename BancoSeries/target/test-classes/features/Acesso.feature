@@ -4,9 +4,9 @@ Feature: Acessar o site Banco de Series
 
 Background: 
     Given O usuario acessa o site
-    When O site é carregado com sucesso
+    Then O site é carregado com sucesso
 
-  @smoke	
+  @smoke1	
   Scenario: Realizar o cadastro no site
     Given O usuario acessa o menu para a realizacao do cadastro
 	When Preencher os dados solicitados pelo site

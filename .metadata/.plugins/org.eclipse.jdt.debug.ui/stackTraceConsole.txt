@@ -1,23 +1,61 @@
-cucumber.runtime.DuplicateStepDefinitionException: Duplicate step definitions in stepDefinitions.funcionalidadesStepDefinition.preencher_os_dados_solicitados_pelo_site() in file:/C:/AUTOMACAO/eclipse-workspace-selenium/BancoSeries/target/test-classes/ and stepDefinitions.acessoStepDefinition.preencher_os_dados_solicitados_pelo_site() in file:/C:/AUTOMACAO/eclipse-workspace-selenium/BancoSeries/target/test-classes/
-	at cucumber.runner.Glue.addStepDefinition(Glue.java:38)
-	at cucumber.runtime.java.JavaBackend.addStepDefinition(JavaBackend.java:170)
-	at cucumber.runtime.java.MethodScanner.scan(MethodScanner.java:64)
-	at cucumber.runtime.java.MethodScanner.scan(MethodScanner.java:41)
-	at cucumber.runtime.java.JavaBackend.loadGlue(JavaBackend.java:111)
-	at cucumber.runner.Runner.<init>(Runner.java:39)
-	at cucumber.runner.ThreadLocalRunnerSupplier.createRunner(ThreadLocalRunnerSupplier.java:42)
-	at cucumber.runner.ThreadLocalRunnerSupplier.access$000(ThreadLocalRunnerSupplier.java:13)
-	at cucumber.runner.ThreadLocalRunnerSupplier$1.initialValue(ThreadLocalRunnerSupplier.java:22)
-	at cucumber.runner.ThreadLocalRunnerSupplier$1.initialValue(ThreadLocalRunnerSupplier.java:19)
-	at java.base/java.lang.ThreadLocal.setInitialValue(ThreadLocal.java:195)
-	at java.base/java.lang.ThreadLocal.get(ThreadLocal.java:172)
-	at cucumber.runner.ThreadLocalRunnerSupplier.get(ThreadLocalRunnerSupplier.java:38)
-	at io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:173)
-	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
-	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
-	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
-	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
-	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
-	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
-	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
+org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 77
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CPX-M02PNCIUW9A', ip: '10.81.169.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0085EB13+1501971]
+	Ordinal0 [0x007DF6D1+980689]
+	Ordinal0 [0x0076765F+489055]
+	Ordinal0 [0x006FF2F4+62196]
+	Ordinal0 [0x006FBCDA+48346]
+	Ordinal0 [0x00719800+169984]
+	Ordinal0 [0x0071942D+169005]
+	Ordinal0 [0x007178EB+162027]
+	Ordinal0 [0x00700AC7+68295]
+	Ordinal0 [0x00701B40+72512]
+	Ordinal0 [0x00701AD9+72409]
+	Ordinal0 [0x007F8F37+1085239]
+	GetHandleVerifier [0x008FD7ED+503293]
+	GetHandleVerifier [0x008FD580+502672]
+	GetHandleVerifier [0x009046AC+531644]
+	GetHandleVerifier [0x008FDFFA+505354]
+	Ordinal0 [0x007F0606+1050118]
+	Ordinal0 [0x007F047F+1049727]
+	Ordinal0 [0x007FAF9B+1093531]
+	Ordinal0 [0x007FB103+1093891]
+	Ordinal0 [0x007FA095+1089685]
+	BaseThreadInitThunk [0x75116359+25]
+	RtlGetAppContainerNamedObjectPath [0x77047B74+228]
+	RtlGetAppContainerNamedObjectPath [0x77047B44+180]
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:127)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:502)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:488)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:543)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:157)
+	at Utils.Util.abrirBrowser(Util.java:17)
+	at stepDefinitions.stepDefinition.o_usuario_acessa_o_site(stepDefinition.java:17)
+	at ?.O usuario acessa o site(file:src/test/java/features/Acesso.feature:6)
 

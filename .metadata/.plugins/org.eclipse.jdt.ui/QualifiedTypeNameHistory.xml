@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="cucumber.api.junit.Cucumber"/>
+    <fullyQualifiedTypeName name="cucumber.api.java.en.And"/>
+    <fullyQualifiedTypeName name="cucumber.api.PendingException"/>
     <fullyQualifiedTypeName name="cucumber.api.java.en.Given"/>
     <fullyQualifiedTypeName name="cucumber.api.java.en.When"/>
     <fullyQualifiedTypeName name="cucumber.api.java.en.Then"/>
-    <fullyQualifiedTypeName name="cucumber.api.java.en.And"/>
-    <fullyQualifiedTypeName name="cucumber.api.PendingException"/>
+    <fullyQualifiedTypeName name="okhttp3.internal.Util"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="Utils.Util"/>
+    <fullyQualifiedTypeName name="junit.framework.Assert"/>
+    <fullyQualifiedTypeName name="actions.ActionAcesso"/>
+    <fullyQualifiedTypeName name="net.bytebuddy.implementation.auxiliary.AuxiliaryType"/>
 </qualifiedTypeNameHistroy>
