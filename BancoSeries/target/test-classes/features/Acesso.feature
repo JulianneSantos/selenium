@@ -13,7 +13,7 @@ Background:
 	And Clicar no botão "<Cadastre_se>"
 	Then Cadastro é realizado com sucesso
 
-  @smoke
+  @smoke2
   Scenario: Realizar a conexão no site
     Given O usuario acessa o menu para a realizacao do login
 	When Preencher os dados solicitados pelo site

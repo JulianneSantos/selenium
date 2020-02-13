@@ -540,3 +540,317 @@
 2020-02-12 16:30:00,285 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
 2020-02-12 16:30:14,622 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-02-12 16:30:14,623 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-12 16:30:14,624 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-12 16:30:14,624 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-12 17:50:00,672 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-12 17:50:00,673 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-12 17:50:00,674 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-12 17:50:00,677 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-12 18:07:11,856 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-12 18:07:11,856 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-12 18:07:11,857 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-12 18:07:11,857 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-12 18:07:16,343 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-12 18:07:16,343 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-12 18:07:16,344 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-12 18:07:16,344 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:32:25,210 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:32:25,211 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:32:25,213 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:32:25,213 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:32:29,455 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:32:29,455 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:32:29,456 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:32:29,456 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:37:04,259 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:37:04,260 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:37:04,263 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:37:04,263 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:38:19,377 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:38:19,377 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:38:19,378 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:38:19,378 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:38:48,716 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:38:48,717 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:38:48,717 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:38:48,717 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:39:46,495 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:39:46,495 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:39:46,496 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:39:46,496 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:41:09,866 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:41:09,866 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:41:09,867 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:41:09,868 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:42:46,882 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:42:46,883 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:42:46,884 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:42:46,885 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:42:51,149 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:42:51,150 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:42:51,150 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:42:51,150 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:43:42,098 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:43:42,098 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:43:42,098 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:43:42,099 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:47:41,928 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-13 14:48:16,135 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:48:16,136 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:48:16,139 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:48:16,140 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:49:13,365 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:49:13,365 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:49:13,366 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:49:13,367 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:49:56,051 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:49:56,051 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:49:56,052 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:49:56,052 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:50:08,082 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:50:08,083 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:50:08,084 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:50:08,085 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:52:09,245 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:52:09,245 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:52:09,246 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:52:09,246 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:52:15,457 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:52:15,457 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:52:15,458 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:52:15,459 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:53:49,921 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:53:49,922 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:53:49,923 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:53:49,924 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:54:20,598 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:54:20,598 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:54:20,600 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:54:20,600 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:55:26,870 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:55:26,871 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:55:26,872 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:55:26,872 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:55:36,614 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:55:36,615 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:55:36,616 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:55:36,616 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:56:12,680 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:56:12,680 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:56:12,682 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:56:12,682 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:56:18,569 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:56:18,569 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:56:18,570 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:56:18,571 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:57:38,415 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:57:38,415 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:57:38,416 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:57:38,416 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 14:58:18,318 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:58:18,318 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 14:58:18,320 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 14:58:18,320 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:00:02,734 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:00:02,734 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:00:02,735 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:00:02,735 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:01:14,805 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:01:14,805 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:01:14,807 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:01:14,807 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:02:48,331 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:02:48,331 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:02:48,332 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:02:48,332 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:02:58,810 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:02:58,810 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:02:58,811 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:02:58,811 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:04:46,368 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:04:46,368 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:04:46,369 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:04:46,369 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:05:18,635 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:05:18,636 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:05:18,636 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:05:18,636 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:05:20,461 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:05:20,461 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:05:20,462 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:05:20,463 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:09:19,482 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:09:19,483 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:09:19,484 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:09:19,484 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:09:42,720 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:09:42,720 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:09:42,721 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:09:42,721 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:09:46,521 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:09:46,521 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:09:46,522 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:09:46,522 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:12:34,850 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:12:34,850 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:12:34,851 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:12:34,851 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:14:22,834 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:14:22,834 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:14:22,835 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:14:22,835 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:14:25,611 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:14:25,611 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:14:25,612 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:14:25,612 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:15:42,174 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:15:42,174 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:15:42,175 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:15:42,176 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:17:22,245 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:17:22,246 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:17:22,246 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:17:22,246 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:17:34,523 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:17:34,523 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:17:34,524 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:17:34,524 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:17:40,616 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:17:40,616 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:17:40,617 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:17:40,618 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:18:02,297 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:18:02,298 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:18:02,299 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:18:02,299 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:19:50,021 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:19:50,021 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:19:50,022 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:19:50,022 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:20:51,013 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:20:51,014 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:20:51,015 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:20:51,016 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:21:11,369 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:21:11,369 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:21:11,369 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:21:11,370 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:23:35,613 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:23:35,613 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:23:35,614 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:23:35,614 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:24:06,520 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:24:06,520 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:24:06,521 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:24:06,521 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:24:10,213 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:24:10,213 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:24:10,214 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:24:10,214 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:29:05,825 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:29:05,825 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:29:05,826 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:29:05,826 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:30:30,136 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:30:30,136 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:30:30,137 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:30:30,137 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:31:00,862 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:31:00,862 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:31:00,863 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:31:00,863 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:31:30,253 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:31:30,254 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:31:30,255 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:31:30,255 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:33:12,414 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:33:12,415 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:33:12,415 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:33:12,416 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:33:35,160 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:33:35,160 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:33:35,161 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:33:35,161 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:33:58,705 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:33:58,706 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:33:58,707 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:33:58,707 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:34:20,185 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:34:20,186 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:34:20,187 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:34:20,187 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:35:40,900 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:35:40,900 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:35:40,901 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:35:40,901 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:35:42,285 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:35:42,285 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:35:42,286 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:35:42,286 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:35:58,302 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:35:58,302 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:35:58,302 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:35:58,303 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:35:59,457 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:35:59,458 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:35:59,458 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:35:59,459 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:36:47,748 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:36:47,748 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:36:47,749 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:36:47,749 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:38:27,770 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:38:27,770 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:38:27,771 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:38:27,772 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:38:33,715 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:38:33,716 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:38:33,717 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:38:33,717 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:38:43,856 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:38:43,857 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:38:43,857 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:38:43,858 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 15:38:53,796 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:38:53,796 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 15:38:53,797 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 15:38:53,797 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 16:35:32,690 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 16:35:32,690 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 16:35:32,691 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 16:35:32,691 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 16:36:46,281 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 16:36:46,281 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 16:36:46,282 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 16:36:46,282 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 16:48:08,499 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 16:48:08,499 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 16:48:08,500 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 16:48:08,500 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 16:49:59,777 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 16:49:59,777 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 16:49:59,778 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 16:49:59,778 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 16:50:05,710 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 16:50:05,710 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 16:50:05,711 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 16:50:05,711 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 16:51:24,720 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 16:51:24,721 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 16:51:24,721 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 16:51:24,722 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 17:12:01,211 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 17:12:01,211 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 17:12:01,212 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 17:12:01,212 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 17:14:02,631 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 17:14:02,631 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 17:14:02,633 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 17:14:02,633 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 17:15:04,711 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 17:15:04,712 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 17:15:04,713 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 17:15:04,713 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\test\resources
+2020-02-13 17:16:02,593 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 17:16:02,593 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AUTOMACAO\eclipse-workspace-selenium\BancoSeries\src\main\resources
+2020-02-13 17:16:02,594 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

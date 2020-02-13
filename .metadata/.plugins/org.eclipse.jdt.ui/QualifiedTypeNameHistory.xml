@@ -7,10 +7,13 @@
     <fullyQualifiedTypeName name="cucumber.api.java.en.When"/>
     <fullyQualifiedTypeName name="cucumber.api.java.en.Then"/>
     <fullyQualifiedTypeName name="okhttp3.internal.Util"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
     <fullyQualifiedTypeName name="Utils.Util"/>
-    <fullyQualifiedTypeName name="junit.framework.Assert"/>
-    <fullyQualifiedTypeName name="actions.ActionAcesso"/>
     <fullyQualifiedTypeName name="net.bytebuddy.implementation.auxiliary.AuxiliaryType"/>
+    <fullyQualifiedTypeName name="junit.framework.Assert"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="actions.ActionAcesso"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By.ByClassName"/>
+    <fullyQualifiedTypeName name="Utils.Constants"/>
+    <fullyQualifiedTypeName name="pageObjects.HomeMap"/>
 </qualifiedTypeNameHistroy>
