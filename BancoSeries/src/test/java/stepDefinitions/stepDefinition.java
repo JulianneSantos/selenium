@@ -3,6 +3,7 @@ package stepDefinitions;
 import org.openqa.selenium.WebDriver;
 
 import Utils.Constants;
+import Utils.TestContext;
 import Utils.Util;
 import actions.ActionAcesso;
 import cucumber.api.java.en.Given;
@@ -13,10 +14,12 @@ import pageObjects.HomeMap;
 public class stepDefinition {
 
 	public WebDriver driver;
+	public TestContext novoDriver;
 
 	@Given("O usuario acessa o site")
 	public void o_usuario_acessa_o_site() {
 		driver = Util.abrirBrowser(driver, Constants.SITE_URL);
+		novoDriver.setDriver(driver);
 
 	}
 
@@ -53,18 +56,18 @@ public class stepDefinition {
 	}
 
 	@Then("Acesso ao site é realizado com sucesso")
-	public void acesso_ao_site_é_realizado_com_sucesso() {
+	public void acesso_ao_site_é_realizado_com_sucesso() throws InterruptedException {
 		ActionAcesso.validarHome(driver);
 	}
 
 	@Given("O usuario está conectado ao site")
-	public void o_usuario_está_conectado_ao_site() {
-		// Write code here that turns the phrase above into concrete actions
+	public void o_usuario_está_conectado_ao_site() throws InterruptedException {
+		ActionAcesso.validarHome(driver);
 	}
 
 	@When("Acessar o menu de saída do site")
 	public void acessar_o_menu_de_saída_do_site() {
-		// Write code here that turns the phrase above into concrete actions
+		ActionAcesso.deslogarSite(driver);
 	}
 
 	@Then("O site exibe a tela principal")
@@ -78,18 +81,23 @@ public class stepDefinition {
 	}
 
 	@Given("O usuario se conecta no site")
-	public void o_usuario_se_conecta_no_site() {
-		// Write code here that turns the phrase above into concrete actions
+	public void o_usuario_se_conecta_no_site() throws InterruptedException {
+
+		driver = Util.abrirBrowser(driver, Constants.SITE_URL);
+		ActionAcesso.acessaMenu(driver, HomeMap.MENU_LOGIN);
+		Thread.sleep(10000);
+		
 	}
 
 	@When("O site carrega a página inicial com sucesso")
-	public void o_site_carrega_a_página_inicial_com_sucesso() {
-		// Write code here that turns the phrase above into concrete actions
+	public void o_site_carrega_a_página_inicial_com_sucesso() throws InterruptedException {
+		ActionAcesso.validarHome(driver);
 	}
 
 	@Given("O usuario acessa o menu da programação diária")
 	public void o_usuario_acessa_o_menu_da_programação_diária() {
-		// Write code here that turns the phrase above into concrete actions
+		ActionAcesso.acessaMenu(driver, HomeMap.MENU_CALENDARIO);
+		ActionAcesso.acessaMenu(driver, HomeMap.SUBMENU_PROGRAMACAO_DIARIA);
 	}
 
 	@Then("O site exibe a listagem com os episodios")

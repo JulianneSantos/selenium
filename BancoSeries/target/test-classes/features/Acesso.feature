@@ -20,7 +20,7 @@ Background:
 	And Clicar no botão "<Logar_se>"
 	Then Acesso ao site é realizado com sucesso
 
-  @smoke	
+  @smoke3	
   Scenario: Realizar a desconexão no site
     Given O usuario está conectado ao site
 	When Acessar o menu de saída do site

@@ -1,5 +1,7 @@
 package Utils;
 
+import org.junit.AfterClass;
+import org.junit.BeforeClass;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -27,10 +29,10 @@ public class Util {
 		driver = new ChromeDriver(options);
 		driver.get(url);
 		driver.manage().window().maximize();
+		
 		return driver;
 
 	}
 	
-
 	
 }

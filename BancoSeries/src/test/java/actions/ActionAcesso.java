@@ -4,6 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 import Utils.Constants;
+import Utils.TestContext;
 import Utils.Util;
 import junit.framework.Assert;
 import net.bytebuddy.implementation.auxiliary.AuxiliaryType;
@@ -37,6 +38,19 @@ public class ActionAcesso {
 	 */
 	public static void acessaMenu(WebDriver driver, By elemento) {
 		driver.findElement(elemento).click();
+
+	}
+	
+	/**
+	 * 
+	 * TESTE TESTE TESTE TESTE
+	 * 
+	 * @param driver
+	 * 
+	 * @author julianne.dos.santos
+	 */
+	public static void acessaMenuTeste(TestContext driver, By elemento) {
+		((WebDriver) driver).findElement(elemento).click();
 
 	}
 
@@ -109,12 +123,25 @@ public class ActionAcesso {
 	 * @param driver
 	 * 
 	 * @author julianne.dos.santos
+	 * @throws InterruptedException 
 	 */
-	public static void validarHome(WebDriver driver) {
-		// TODO Auto-generated method stub
+	public static void validarHome(WebDriver driver) throws InterruptedException {
+		Thread.sleep(5000);
 		Assert.assertTrue(
 				driver.findElement(HomeMap.ITEM_LOGIN).isDisplayed());
 
+	}
+
+	/**
+	 * 
+	 * Método responsável por realizar a saída do usuário no site.
+	 * 
+	 * @param driver
+	 * @author julianne.dos.santos
+	 */
+	public static void deslogarSite(WebDriver driver) {
+		driver.findElement(HomeMap.ITEM_LOGIN).click();
+		driver.findElement(HomeMap.SUBMENU_SAIR).click();
 	}
 
 }

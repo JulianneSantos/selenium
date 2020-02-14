@@ -47,7 +47,18 @@ public class HomeMap {
 	public static By MODAL_LABEL = By.id("myModalLabel");
 	
 	//item menu login 
-	public static By ITEM_LOGIN = By.xpath("/html/body/div[1]/div/div/div/div/ul/li[11]/a");
+	//public static By ITEM_LOGIN = By.xpath("/html/body/div[1]/div/div/div/div/ul/li[11]/a");
+	public static By ITEM_LOGIN = By.xpath("//*[@id=\"myModal\"]/div[2]/form/table/tbody/tr[1]/td[2]/input");
+	
+	
+	// Submenu "Sair" 
+	public static By SUBMENU_SAIR = By.xpath("/html/body/div[1]/div/div/div/div/ul/li[11]/ul/li[5]/a");
+	
+	// item do calendario
+	public static By MENU_CALENDARIO = By.xpath("/html/body/div[1]/div/div/div/div/ul/li[2]/a/i");
+	
+	// submenu programacao diaria
+	public static By SUBMENU_PROGRAMACAO_DIARIA = By.xpath("/html/body/div[1]/div/div/div/div/ul/li[2]/ul/li[5]/a");
 	
 
 }
