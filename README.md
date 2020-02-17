@@ -8,7 +8,12 @@ Files in these repository:
  - "BancoSeries" project:
  
       Project with cucumber
+ ----------------------------------
+ - "JSON" project:
+      
+      .JSON files
 
+----------------------------------
 > All projetcs was made in class learning.
 > The objective of it is to learn and training Selenium, Cucumber and Git. 
 
