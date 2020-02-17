@@ -9,8 +9,7 @@ Files in these repository:
  
       Project with cucumber
       
- ----------------------------------
- - "JSON" project:
+  - "JSON" project:
       
       .JSON files
 
