@@ -7,13 +7,22 @@
     <fullyQualifiedTypeName name="cucumber.api.java.en.When"/>
     <fullyQualifiedTypeName name="cucumber.api.java.en.Then"/>
     <fullyQualifiedTypeName name="okhttp3.internal.Util"/>
+    <fullyQualifiedTypeName name="net.bytebuddy.implementation.auxiliary.AuxiliaryType"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By.ByClassName"/>
+    <fullyQualifiedTypeName name="junit.framework.Assert"/>
+    <fullyQualifiedTypeName name="cucumber.api.java.Before"/>
+    <fullyQualifiedTypeName name="cucumber.runtime.StepDefinition"/>
+    <fullyQualifiedTypeName name="org.junit.AfterClass"/>
+    <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+    <fullyQualifiedTypeName name="tdm.TDM"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
     <fullyQualifiedTypeName name="Utils.Util"/>
-    <fullyQualifiedTypeName name="net.bytebuddy.implementation.auxiliary.AuxiliaryType"/>
-    <fullyQualifiedTypeName name="junit.framework.Assert"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
-    <fullyQualifiedTypeName name="actions.ActionAcesso"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.By.ByClassName"/>
+    <fullyQualifiedTypeName name="Utils.TestContext"/>
+    <fullyQualifiedTypeName name="stepDefinitions.stepDefinition"/>
     <fullyQualifiedTypeName name="Utils.Constants"/>
+    <fullyQualifiedTypeName name="actions.ActionAcesso"/>
     <fullyQualifiedTypeName name="pageObjects.HomeMap"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
