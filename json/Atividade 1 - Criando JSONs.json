@@ -1,0 +1,23 @@
+{
+  "Pós Graduação de Testes Ágeis": {
+    "Instituição": "Accenture",
+    "Nome do curso": "Testes de API",
+    "Curso presencial": false,
+    "Curso encerrado": false,
+    "Descrição": "A proposta do nosso Reskilling é apoiar na performance de carreira e tornar nossos colaboradores um profissional versátil, que saiba lidar com as variáveis ligadas à área em um mundo imerso em Tecnologia da Informação e Comunicação.",
+    "Duração em meses": 2,
+    "Disciplinas": [
+      {
+        "Nome": "Testes de API",
+        "Programa": "Realizar introdução sobre os fundamentos e dá uma visão inicial de conceitos e ferramentas.",
+        "Carga horária em horas": 3
+      },
+      {
+        "Nome": "Introdução aos Testes Ágeis",
+        "Programa": "Introdução sobre os conceitos fundamentais de testes no contexto de desenvolvimento ágil. Além disso, mostrar o mind-set de testes ágeis e como o time deve se organizar para criar uma cultura de qualidade.",
+        "Carga horária em horas": 1
+      }
+    ],
+    "Quantidade de alunos": null
+  }
+}
